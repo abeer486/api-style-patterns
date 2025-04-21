@@ -1,0 +1,16 @@
+### Messaging
+
+Components: 
+
+- Producer
+- Consumer
+- broker / work queues in the middle that connects the two
+
+
+## Benefits / when to use it? 
+
+- it logically decouples the sender from the recipient
+- synch communication is not a concern
+- when data delivery is a cocern
+
+

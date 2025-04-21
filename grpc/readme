@@ -1,0 +1,14 @@
+
+
+When to use gRPC? 
+gRPC is a high-performance, open-source universal RPC framework that can run in any environment. It is designed for low latency and high throughput communication, making it ideal for microservices architectures. gRPC is based on HTTP/2 and uses Protocol Buffers as its interface definition language (IDL).
+It is a good choice when you need to:
+- Build a microservices architecture
+- Communicate between services in different languages
+- Use streaming for real-time communication
+- Use bidirectional streaming for real-time communication
+- Use HTTP/2 features like multiplexing and flow control
+- Use Protocol Buffers for serialization
+
+When you need efficient communication between tightly coupled services that you own
+
